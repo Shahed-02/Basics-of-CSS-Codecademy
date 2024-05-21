@@ -10,6 +10,6 @@
 •	Applied CSS concepts in 6 real-world projects, covering the box model, visual rules, and typography.
 
 
-<a href="https://ibb.co/Fq1QhcF"><img src="https://i.ibb.co/dJvNfXR/Basics-of-CSS-Codecademy-Certificate.jpg" alt="Basics-of-CSS-Codecademy-Certificate"  height="400px" width="400px"></a>
+<a href="https://ibb.co/Fq1QhcF"><img src="https://i.ibb.co/dJvNfXR/Basics-of-CSS-Codecademy-Certificate.jpg" alt="Basics-of-CSS-Codecademy-Certificate"  ></a>
 
 
